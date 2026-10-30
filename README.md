@@ -26,7 +26,7 @@ Google Meet などの画面共有で、共有する画面をワンクリック�
 
 ## Windows 版
 
-最新版: <!-- win-latest --><!-- /win-latest -->
+最新版: <!-- win-latest -->[ScreenShareSwitcher-win-Setup.exe（0.2.0）](https://github.com/ken-ueno-uhuru/screen_share_releases/releases/download/win-v0.2.0/ScreenShareSwitcher-win-Setup.exe)<!-- /win-latest -->
 
 - Windows 11
 - 一度インストールすれば、以降は新しい版が出ると裏でダウンロードされ、次に起動したときに更新される（タスクトレイのアイコンを右クリック →「アップデートを確認…」でも確認できる）
