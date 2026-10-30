@@ -5,7 +5,7 @@ Google Meet などの画面共有で、共有する画面をワンクリック�
 
 ## Mac 版
 
-最新版: <!-- mac-latest --><!-- /mac-latest -->
+最新版: <!-- mac-latest -->[ScreenShareSwitcher-0.2.0.zip](https://github.com/ken-ueno-uhuru/screen_share_releases/releases/download/mac-v0.2.0/ScreenShareSwitcher-0.2.0.zip)<!-- /mac-latest -->
 
 - Apple シリコン（M1 以降）、macOS 14 以降
 - 一度インストールすれば、以降は新しい版が出るとアプリが通知して自動で更新できる（メニューバーのアイコンを右クリック →「アップデートを確認…」でも確認できる）

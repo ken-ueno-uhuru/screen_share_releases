@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ScreenShareSwitcher for Mac</title>
+    <item>
+      <title>バージョン 0.2.0</title>
+      <pubDate>Fri, 30 Oct 2026 16:39:07 +0900</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>自動アップデートに対応</li>
+<li>Chrome のタブを選んで、Web ページ部分だけを映せるように</li>
+<li>タブグループをサブメニューにまとめて表示</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/ken-ueno-uhuru/screen_share_releases/releases/download/mac-v0.2.0/ScreenShareSwitcher-0.2.0.zip" sparkle:edSignature="n8ewhiRrF5pnz9iQsebnncmB0LQdAYSCDw7KsqzdC+tyboVqBKZClTHK+RadSp/kdUVOz75gscXdM/iZqdGKDA==" length="1167241" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
