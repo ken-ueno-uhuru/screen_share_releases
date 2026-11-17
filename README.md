@@ -5,7 +5,7 @@ Google Meet などの画面共有で、共有する画面をワンクリック�
 
 ## Mac 版
 
-最新版: <!-- mac-latest -->[ScreenShareSwitcher-0.2.0.zip](https://github.com/ken-ueno-uhuru/screen_share_releases/releases/download/mac-v0.2.0/ScreenShareSwitcher-0.2.0.zip)<!-- /mac-latest -->
+最新版: <!-- mac-latest -->[ScreenShareSwitcher-0.3.0.zip](https://github.com/ken-ueno-uhuru/screen_share_releases/releases/download/mac-v0.3.0/ScreenShareSwitcher-0.3.0.zip)<!-- /mac-latest -->
 
 - Apple シリコン（M1 以降）、macOS 14 以降
 - 一度インストールすれば、以降は新しい版が出るとアプリが通知して自動で更新できる（メニューバーのアイコンを右クリック →「アップデートを確認…」でも確認できる）
@@ -29,16 +29,16 @@ Google Meet などの画面共有で、共有する画面をワンクリック�
 最新版: <!-- win-latest -->[ScreenShareSwitcher-win-Setup.exe（0.2.0）](https://github.com/ken-ueno-uhuru/screen_share_releases/releases/download/win-v0.2.0/ScreenShareSwitcher-win-Setup.exe)<!-- /win-latest -->
 
 - Windows 11
-- 一度インストールすれば、以降は新しい版が出ると裏でダウンロードされ、次に起動したときに更新される（タスクトレイのアイコンを右クリック →「アップデートを確認…」でも確認できる）
+- 一度入れれば、以降は新しい版が出ると裏でダウンロードされ、タスクトレイに通知が出る。トレイのアイコンを右クリック →「再起動してアップデート」か、次にアプリを起動し直したときに更新される（「アップデートを確認…」でも確認できる）
 
 ### インストール
 
-1. 上の `ScreenShareSwitcher-win-Setup.exe` をダウンロードして実行する
-2. 「Windows によって PC が保護されました」と出たら「詳細情報」→「実行」を押す（署名していないため）
-3. インストールが終わるとアプリが起動し、タスクトレイにアイコンが出る。デスクトップとスタートメニューにもショートカットができる
-4. ログイン時に自動で起動したい場合は、`Win+R` →「`shell:startup`」で開いたフォルダに、デスクトップのショートカットをコピーする
+1. 上の `ScreenShareSwitcher.exe` をダウンロードし、ドキュメントなど自分のフォルダに置く（自動アップデートで exe を書き換えるため、「Program Files」などには置かない）
+2. ダブルクリックで起動する。「Windows によって PC が保護されました」と出たら「詳細情報」→「実行」を押す（署名していないため。最初の 1 回だけ）
+3. タスクトレイにアイコンが出る
+4. ログイン時に自動で起動したい場合は、exe を右クリック →「ショートカットの作成」で作ったショートカットを、`Win+R` →「`shell:startup`」で開いたフォルダに移す
 
-アンインストールは「設定」→「アプリ」→「インストールされているアプリ」から。
+やめるときは、トレイのアイコンを右クリック →「ScreenShareSwitcher を終了」してから exe を削除する。
 
 ### 使い方
 
